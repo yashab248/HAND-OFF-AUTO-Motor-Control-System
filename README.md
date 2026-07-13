@@ -1,4 +1,5 @@
-# HAND-OFF-AUTO Motor Control System
+# HAND-OFF-AUTO Motor Control System 🟢🔴🔵
+
 
 ## Overview
 
@@ -11,6 +12,8 @@ The system allows an operator to select between three operating modes:
 - **OFF/ESD Mode:** Emergency shutdown functionality to immediately disable motor operation.
 
 The project combines embedded programming, electrical hardware design, and motor control concepts to create a small-scale prototype of an industrial motor control system.
+
+Demonstration of project functionality is shown at the bottom.
 
 ---
 
@@ -46,14 +49,15 @@ This project was developed to explore how these control strategies can be implem
 | Component | Purpose |
 |-----------|---------|
 | Arduino Uno | Main microcontroller |
-| DC Motor | Controlled motor load |
+| 6-12VDC Motor | Controlled motor load |
 | NPN Transistor | Motor switching device |
 | Flyback Diode | Protects circuit from inductive voltage spikes |
-| Temperature Sensor | Provides feedback for AUTO mode |
+| Potentiometer | Controls motor speed for HAND mode |
+| Temperature Sensor (DHT11) | Provides feedback for AUTO mode |
 | LCD 16x2 I2C Display | Displays system status |
-| Push Buttons | User inputs |
-| LEDs | Mode indicators |
-| External Battery Supply | Powers motor circuit |
+| 4 Push Buttons | User inputs |
+| RGB LED | Mode indicators (HAND: 🟢)(AUTO: 🔵)(ESD: 🔴) |
+| 9V Battery Supply | Powers motor circuit |
 
 ---
 
@@ -108,11 +112,15 @@ The program performs:
 ---
 
 ## Demonstration
-Picture of setup:
+PICTURE OF SETUP:
 
-Close-up of breadboard wiring:
+CLOSE-UP OF BREADBOARD WIRING:
 
-VIDEO OF HAND-OFF-AUTO FUNCTIONALITY:
+VIDEO OF HAND FUNCTIONALITY:
+
+VIDEO OF AUTO FUNCTIONALITY:
+
+VIDEO OF EMERGENCY SHUTDOWN FUNCTIONALITY:
 
 (Add pictures/videos here)
 
