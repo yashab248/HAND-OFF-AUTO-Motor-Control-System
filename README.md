@@ -62,8 +62,10 @@ This project was developed to explore how these control strategies can be implem
 ---
 
 ## System Architecture
+<p align = "center">
+  <img width="500" height="800" alt="Block Diagram for HAND-OFF-AUTO CONTROL PROJECT" src="https://github.com/user-attachments/assets/ea64927f-b50e-4fe1-9cbe-3ee949b0a9b1" />
+</p>
 
-<img width="500" height="800" alt="Block Diagram for HAND-OFF-AUTO CONTROL PROJECT" src="https://github.com/user-attachments/assets/ea64927f-b50e-4fe1-9cbe-3ee949b0a9b1" />
 
 Example:
 
@@ -107,7 +109,9 @@ The program performs:
 7. Updates LCD display.
 8. Controls motor operation.
 
-<img width="450" height="994" alt="Flowchart for HAND-OFF-AUTO CONTROL PROJECT (1)" src="https://github.com/user-attachments/assets/65db33f4-af47-4b1a-8e29-c1a4badd1a14" />
+<p align="center">
+  <img width="400" height="900" alt="Flowchart for HAND-OFF-AUTO CONTROL PROJECT (3)" src="https://github.com/user-attachments/assets/dece195f-1b65-4dd2-b33a-7da55a4c8760" />
+</p>
 
 
 ---
