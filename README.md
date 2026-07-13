@@ -1,5 +1,5 @@
 # HAND-OFF-AUTO Motor Control System 🟢🔴🔵
-
+<img width="1000" height="500" alt="CIRCUIT-SCHEMATIC-HOA-CONTROL" src="https://github.com/user-attachments/assets/03b3b92b-43e7-4687-9038-fa7a2476b3ae" />
 
 ## Overview
 
