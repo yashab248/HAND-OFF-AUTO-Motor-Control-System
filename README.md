@@ -19,7 +19,7 @@ Demonstration of project functionality is shown at the bottom.
 
 ## Project Motivation
 
-At my Electrical Engineering Internship at Equinox Engineering Ltd., I worked with industrial motor-driven equipment often uses HAND-OFF-AUTO control schemes to provide operators with flexibility, automation, and safety features. 
+At my Electrical Engineering Internship at Equinox Engineering Ltd., I worked with industrial motor-driven equipment that use HAND-OFF-AUTO control schemes to provide operators with flexibility, automation, and safety features. 
 
 This project was developed to explore how these control strategies can be implemented using a microcontroller-based system while applying concepts in embedded programming, electrical circuits, and motor control.
 
