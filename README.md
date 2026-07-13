@@ -88,6 +88,7 @@ Electrical design considerations included:
 - Flyback diode protection for inductive motor loads.
 - Transistor operation as an electronic switch.
 - PWM speed control for variable motor operation.
+- The DHT11 sensor was chosen over TMP36 because it eliminates the need for analog voltage conversion
 
 ---
 
