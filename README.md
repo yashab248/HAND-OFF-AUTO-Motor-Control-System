@@ -91,6 +91,9 @@ Electrical design considerations included:
 - Transistor operation as an electronic switch.
 - PWM speed control for variable motor operation.
 - The DHT11 sensor was chosen over TMP36 because it eliminates the need for analog voltage conversion
+<img width="1055" height="816" alt="image" src="https://github.com/user-attachments/assets/03cc6f86-8de8-4d37-8f98-9d2e3948116c" />
+
+
 
 ---
 
