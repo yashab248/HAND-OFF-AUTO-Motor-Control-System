@@ -13,7 +13,11 @@ The system allows an operator to select between three operating modes:
 
 The project combines embedded programming, electrical hardware design, and motor control concepts to create a small-scale prototype of an industrial motor control system.
 
-**Physical demonstration of project functionality is shown at the bottom.**
+**DEMO: **
+
+
+
+**More demonstrations of project functionality is shown at the bottom.**
 
 ---
 
@@ -133,6 +137,8 @@ VIDEO OF HAND FUNCTIONALITY 🟢:
 https://youtu.be/bZu68L75NJM
 
 VIDEO OF AUTO FUNCTIONALITY 🔵:
+
+
 
 VIDEO OF EMERGENCY SHUTDOWN FUNCTIONALITY 🔴:
 
