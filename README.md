@@ -122,9 +122,14 @@ The program performs:
 ## Demonstration
 PICTURE OF SETUP:
 
+<img width="543" height="407" alt="image" src="https://github.com/user-attachments/assets/893358db-05dc-4dc7-8c8b-06c7296c88fa" />
+
 CLOSE-UP OF BREADBOARD WIRING:
 
+<img width="543" height="407" alt="image" src="https://github.com/user-attachments/assets/48f92cce-61b2-4d8f-b084-11c1caf6a563" />
+
 VIDEO OF HAND FUNCTIONALITY 🟢:
+
 
 VIDEO OF AUTO FUNCTIONALITY 🔵:
 
