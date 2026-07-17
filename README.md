@@ -130,7 +130,7 @@ CLOSE-UP OF BREADBOARD WIRING:
 
 VIDEO OF HAND FUNCTIONALITY 🟢:
 
-https://youtu.be/bZu68L75NJM 
+[![HAND-OFF-AUTO Motor Control System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/bZu68L75NJM))
 
 VIDEO OF AUTO FUNCTIONALITY 🔵:
 
