@@ -142,7 +142,7 @@ https://youtu.be/Ikd9ZkfVZ64
 
 VIDEO OF EMERGENCY SHUTDOWN FUNCTIONALITY 🔴:
 
-
+https://youtu.be/Axu2g6rp1NE
 
 Example:
 
