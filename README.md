@@ -14,8 +14,7 @@ The system allows an operator to select between three operating modes:
 The project combines embedded programming, electrical hardware design, and motor control concepts to create a small-scale prototype of an industrial motor control system.
 
 **DEMO:**
-
-
+https://youtube.com/shorts/huuvXkki1aA?feature=share
 
 **More demonstrations of project functionality is shown at the bottom.**
 
