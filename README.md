@@ -15,8 +15,7 @@ The project combines embedded programming, electrical hardware design, and motor
 
 **DEMO:**
 
-[![Watch Demo](<img width="827" height="479" alt="image" src="https://github.com/user-attachments/assets/5ebd8726-ffa9-4780-9678-2d21101ce688" />
-)](https://youtube.com/shorts/huuvXkki1aA?feature=share)
+![Watch Demo]](https://youtube.com/shorts/huuvXkki1aA?feature=share)
 
 **More demonstrations of project functionality is shown at the bottom.**
 
